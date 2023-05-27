@@ -1,6 +1,6 @@
 # homework-image_processing_tool
 ### part 1:
- label一秒打开指定路径一个最新储存的图像  
+ label一秒打开指定路径一个最新储存的图像，考虑需不需要多线程，showwindows和mainwindows  
  关闭特定图像  
  ~~videocapture一秒八张图片存为Mat~~  
  ~~能显示、保存经过处理的图像~~  
